@@ -1,11 +1,11 @@
-# Security Policy
+# سياسة الأمن
 
-## Supported Versions
+## الإصدارات المدعومة
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+استخدم هذا القسم لإخبار الأشخاص عن إصدارات مشروعك
+يتم دعمها حاليًا مع تحديثات الأمان.
 
-| Version | Supported          |
+| الإصدار | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
 | 5.0.x   | :x:                |
